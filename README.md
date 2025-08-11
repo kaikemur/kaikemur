@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Sou o Kaike Murilo
 
-<!--
-**kaikemur/kaikemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínua para aprimorar minhas habilidades e construir projetos significativos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudado:
+
+- JavaScript
+- HTML5
+- CSS3
+- Java
+- Python
+- MySQL
+- Git & GitHub
+- VS Code
+
+---
+
+## 📊 Estatísticas do GitHub
+
+Acompanhe meu progresso e contribuições:
+
+![kaikemur's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemur&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&layout=compact&theme=dark)
+
+---
+
+## 📞 Conecte-se comigo
+
+- LinkedIn: [https://www.linkedin.com/in/kaike-murilo-8bb686341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- Email: [kaikemurilocr@gmail.com]
