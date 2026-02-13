@@ -15,35 +15,15 @@ Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínu
 
 ---
 
-- Click `Connect with Spotify` button below to grant permission
+-## 🎵 Codando agora ao som de
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.kittinanx.com/api/login)
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u6kqncrfdpifxmyk2o2tucb7xe&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
+  </a>
+</div>
 
-## Example
-
-- Default theme
-
-![spotify-github-profile](/img/default.svg)
-
-- Compact theme
-
-![spotify-github-profile](/img/compact.svg)
-
-- Natemoo-re theme
-
-![spotify-github-profile](/img/natemoo-re.svg)
-
-- Novatorem theme
-
-![spotify-github-profile](/img/novatorem.svg)
-
-- Karaoke theme
-
-![spotify-github-profile](/img/karaoke.svg)
-
-- Spotify Embed theme (NEW!)
-
-![spotify-github-profile](/img/spotify-embed.svg)
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
