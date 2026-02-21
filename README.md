@@ -67,10 +67,9 @@ Aqui estão as principais ferramentas e tecnologias que utilizo e estudo:
 
 Acompanhe meu progresso e contribuições:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaikemur&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&layout=compact&theme=dark&hide_border=true&card_width=320"/>
-</div>
+[![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/kaikemur/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/kaikemur/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/kaikemur/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/kaikemur/github-profile-summary-cards)
 
 ---
 
