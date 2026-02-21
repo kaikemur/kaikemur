@@ -15,11 +15,11 @@ Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínu
 
 ---
 
--## 🎵 Codando agora ao som de
+## 🎵 Codando agora ao som de
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u6kqncrfdpifxmyk2o2tucb7xe&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxvmvyzwgjy7jdb22cb7v3y6ja&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing"/>
   </a>
 </div>
 
@@ -69,9 +69,9 @@ Aqui estão as principais ferramentas e tecnologias que utilizo e estudo:
 
 Acompanhe meu progresso e contribuições:
 
-![kaikemur's GitHub Stats](https://raw.githubusercontent.com/kaikemur/kaikemur/main/profile-summary-card-output/github_dark/3-stats.svg)
+![kaikemur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaikemur&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://raw.githubusercontent.com/kaikemur/kaikemur/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -90,4 +90,4 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-> **“A melhor maneira de prever o futuro é criá-lo.”**
+> **"A melhor maneira de prever o futuro é criá-lo."**
