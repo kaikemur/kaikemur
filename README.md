@@ -69,7 +69,10 @@ Acompanhe meu progresso e contribuições:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaikemur&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&theme=dark&layout=compact)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaikemur&theme=tokyonight)
+
 ---
 
 ## 🏷️ Hobbies & Interesses
