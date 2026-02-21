@@ -68,10 +68,7 @@ Aqui estão as principais ferramentas e tecnologias que utilizo e estudo:
 Acompanhe meu progresso e contribuições:
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaikemur&theme=dark)](https://git.io/streak-stats)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaikemur&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaikemur&theme=dark)](https://git.io/streak-stats)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaikemur&theme=tokyonight)
 
 ---
 
