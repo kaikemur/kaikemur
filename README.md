@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o Kaike Murilo
+<img width="705" height="372" alt="image" src="https://github.com/user-attachments/assets/9c164fd2-090b-4193-b731-0b6f2c4f2b1c" /># 👋 Olá! Sou o Kaike Murilo
 
 ![Contador de visitas](https://komarev.com/ghpvc/?username=kaikemur&color=blue&style=flat)
 
