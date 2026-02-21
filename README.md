@@ -67,11 +67,9 @@ Aqui estão as principais ferramentas e tecnologias que utilizo e estudo:
 
 Acompanhe meu progresso e contribuições:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaikemur&theme=dark)
-![Contribuições](https://komarev.com/ghpvc/?username=kaikemur&color=blue)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaikemur&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaikemur&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&theme=dark&layout=compact)
 ---
 
 ## 🏷️ Hobbies & Interesses
