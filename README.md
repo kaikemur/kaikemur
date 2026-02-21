@@ -17,11 +17,9 @@ Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínu
 
 ## 🎵 Codando agora ao som de
 
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxvmvyzwgjy7jdb22cb7v3y6ja&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxvmvyzwgjy7jdb22cb7v3y6ja&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bxvmvyzwgjy7jdb22cb7v3y6ja&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
 
 ---
 
