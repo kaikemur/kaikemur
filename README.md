@@ -67,9 +67,10 @@ Aqui estão as principais ferramentas e tecnologias que utilizo e estudo:
 
 Acompanhe meu progresso e contribuições:
 
-[![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/kaikemur/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/kaikemur/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/kaikemur/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaikemur/kaikemur/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/kaikemur/github-profile-summary-cards)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaikemur&theme=dark)
+![Contribuições](https://komarev.com/ghpvc/?username=kaikemur&color=blue)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaikemur&theme=dark)](https://git.io/streak-stats)
 
 ---
 
