@@ -69,9 +69,9 @@ Aqui estão as principais ferramentas e tecnologias que utilizo e estudo:
 
 Acompanhe meu progresso e contribuições:
 
-![kaikemur's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemur&show_icons=true&theme=dark)
+![kaikemur's GitHub Stats](https://raw.githubusercontent.com/kaikemur/kaikemur/main/profile-summary-card-output/github_dark/3-stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemur&layout=compact&theme=dark)
+![Top Langs](https://raw.githubusercontent.com/kaikemur/kaikemur/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 ---
 
