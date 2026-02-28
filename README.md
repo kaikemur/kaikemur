@@ -91,7 +91,7 @@ Acompanhe meu progresso e contribuições:
 ## 📞 Conecte-se comigo
 
 - LinkedIn: [https://www.linkedin.com/in/kaike-murilo-8bb686341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- Email: [kaikemurilocr@gmail.com]
+- Email: [murilocrkaike@gmail.com]
 
 ---
 
